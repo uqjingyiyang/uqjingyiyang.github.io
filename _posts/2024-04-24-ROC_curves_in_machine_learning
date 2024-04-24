@@ -1,1 +1,4 @@
-
+# **ROC curves in machine learning**
+## **What is the ROC curve?**
+**Receiver Operating Characteristic (ROC)** curves are graphs that show the performance of a classifier by plotting the true positive and false positive rates.    
+The area under the ROC curve (AUC) measures the performance of a machine learning algorithm. ROC curves visualize the statistical accuracy of classifier selection.
