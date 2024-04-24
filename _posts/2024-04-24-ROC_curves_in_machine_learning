@@ -8,5 +8,5 @@
 - Confusion Matrix : Confusion matrices are visualization tools used especially for supervised learning, in unsupervised learning they are generally called matching matrices. In image accuracy evaluation, it is mainly used to compare the classification results with the actual measured values, and the accuracy of the classification results can be displayed inside a confusion matrix.             
 The structure is shown below:
 
-[![Confusion matrix](路徑 “混淆矩阵”)](https://blog.csdn.net/seagal890/article/details/105059498)s/img/shiprock.jpg "Shiprock"
+[![Confusion matrix](/master/images/Confusion_matrix.jpg)](https://blog.csdn.net/seagal890/article/details/105059498)
 
