@@ -3,8 +3,8 @@
 ## **Why fingerprint enhancement?**          
 Because there may be some additional interference during fingerprint acquisition, this may cause the acquired image to be affected in the following ways.
 > A. The ridge lines of the fingerprints are not perfectly connected, resulting in interruptions in the middle.          
-> B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.[B]          
-> C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]                 
+> B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.       
+> C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.            
 
 ![Original fingerprint image](/master/images//master/images/Confusion_matrix.jpg "Original fingerprint image")           
 
