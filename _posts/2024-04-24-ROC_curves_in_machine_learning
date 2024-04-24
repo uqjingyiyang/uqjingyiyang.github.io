@@ -1,4 +1,12 @@
-# **ROC curves in machine learning**
+# **ROC curves in machine learning.**
+
 ## **What is the ROC curve?**
-**Receiver Operating Characteristic (ROC)** curves are graphs that show the performance of a classifier by plotting the true positive and false positive rates.    
-The area under the ROC curve (AUC) measures the performance of a machine learning algorithm. ROC curves visualize the statistical accuracy of classifier selection.
+
+**Receiver Operating Characteristic (ROC)** curves are graphs that show the performance of a classifier by plotting the true positive and false positive rates. The area under the ROC curve (AUC) measures the performance of a machine learning algorithm. ROC curves visualize the statistical accuracy of classifier selection.
+
+## **Common categorization metrics for ROC curves in machine learning.**
+- Confusion Matrix : Confusion matrices are visualization tools used especially for supervised learning, in unsupervised learning they are generally called matching matrices. In image accuracy evaluation, it is mainly used to compare the classification results with the actual measured values, and the accuracy of the classification results can be displayed inside a confusion matrix.             
+The structure is shown below:
+
+[![Confusion matrix](路徑 “混淆矩阵”)](https://blog.csdn.net/seagal890/article/details/105059498)s/img/shiprock.jpg "Shiprock"
+
