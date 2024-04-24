@@ -3,8 +3,8 @@
 ## **Why fingerprint enhancement?**          
 Because there may be some additional interference during fingerprint acquisition, this may cause the acquired image to be affected in the following ways.
 > A. The ridge lines of the fingerprints are not perfectly connected, resulting in interruptions in the middle.          
-> B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.       
-> C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.            
+> B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.[B]          
+> C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]                 
 
 ![Original fingerprint image](/master/images//master/images/Confusion_matrix.jpg "Original fingerprint image")           
 
@@ -12,7 +12,7 @@ In this case, it is difficult to extract the features of fingerprints in fingerp
 
 ### **Methods of Fingerprint Enhancement**
 The most widely accepted image enhancement technique is context filtering in the spatial and frequency domains, which reduces the effects of broken ridges and unwanted scars on fingerprints.      
-The specific steps are shown below:
+The specific steps are shown below[1]:
 1. **Normalization**: Adjusts the gray values of the image so that the image has a preset mean and variance, which reduces the variation in gray values between ridges and valleys in preparation for subsequent processing steps.              
 ![Normalization fingerporint](/master/images//master/images/Normalization_fingerporint.jpg "Normalization fingerporint")
 
@@ -31,4 +31,8 @@ Fingerprints before enhancement:
 Fingerprints after enhancement:
 ![Enhanced fingerprint image](/master/images//master/images/Enhanced_fingerprint_image.jpg "Enhanced fingerprint image")          
 
-It can be seen that the fingerprint image enhancement algorithm can effectively improve the quality of the input image, especially the clarity of the fingerprint ridges and valleys, thus improving the accuracy and reliability of the automatic fingerprint identification system.
+It can be seen that the fingerprint image enhancement algorithm can effectively improve the quality of the input image, especially the clarity of the fingerprint ridges and valleys, thus improving the accuracy and reliability of the automatic fingerprint identification system.   
+
+## **Reference**
+[1]：Lin Hong, Yifei Wan, and A. Jain, “Fingerprint image enhancement: algorithm and performance evaluation,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 20, no. 8, pp. 777–789, 1998, doi: https://doi.org/10.1109/34.709565.
+‌
