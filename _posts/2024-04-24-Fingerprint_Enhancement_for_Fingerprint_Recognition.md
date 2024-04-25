@@ -6,7 +6,7 @@ Because there may be some additional interference during fingerprint acquisition
 > B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.[B]          
 > C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]
 
-<div align="center"> <img src="/images/Original_fingerprint_image.jpg" width = 400 height = 200 /> </div>
+<div align="center"> <img src="/images/Original_fingerprint_image.jpg" width = 200 height = 600 /> </div>
  
 
 
