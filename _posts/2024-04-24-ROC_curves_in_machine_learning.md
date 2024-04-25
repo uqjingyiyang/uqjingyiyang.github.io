@@ -12,10 +12,10 @@
     [![Confusion matrix](/images/Confusion_matrix.jpg "Confusion matrix")](https://blog.csdn.net/seagal890/article/details/105059498)          
     Figure 1: Confusion Matrix (image credit: <https://blog.csdn.net/seagal890/article/details/105059498>)                                                                
     The parameters in the image are respectively:                           
-    > **True Positive (TP):** The true class of the sample is positive, and the result of the model identification is also positive.                  
-    > **False Negative (FN):** The true class of the sample is positive, but the model recognizes it as negative.                   
-    > **False Positive (FP):** The true class of the sample is negative, but the model recognizes it as positive.                  
-    > **True Negative (TN):** The true class of the sample is negative, and the model recognizes it as a negative class.      
+    > - **True Positive (TP):** The true class of the sample is positive, and the result of the model identification is also positive.                  
+    > - **False Negative (FN):** The true class of the sample is positive, but the model recognizes it as negative.                   
+    > - **False Positive (FP):** The true class of the sample is negative, but the model recognizes it as positive.                  
+    > - **True Negative (TN):** The true class of the sample is negative, and the model recognizes it as a negative class.      
 
 - ### **Recall:** The ratio of positive values to predicted positive values, also known as the check-all rate, recall shows how much the classifier can predict in an actual positive sample.[2]
     Calculation formula:
