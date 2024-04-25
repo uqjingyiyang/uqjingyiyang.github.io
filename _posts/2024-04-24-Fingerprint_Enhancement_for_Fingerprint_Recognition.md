@@ -7,7 +7,7 @@ Because there may be some additional interference during fingerprint acquisition
 > C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]
 
 
-![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image")      
+![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image"#pic_center)      
 
 
 In this case, it is difficult to extract the features of fingerprints in fingerprint recognition, so it is necessary to enhance the fingerprint image.            
