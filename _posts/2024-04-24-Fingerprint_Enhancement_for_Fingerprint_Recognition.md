@@ -36,7 +36,7 @@ Fingerprints before enhancement:
 Fingerprints after enhancement:            
 
 
-<div align="center"> <img src="/images/images/Enhanced_fingerprint_image.jpg" width = 300 height = 500 /> </div>
+<div align="center"> <img src="/images/Enhanced_fingerprint_image.jpg" width = 300 height = 500 /> </div>
 
 It can be seen that the fingerprint image enhancement algorithm can effectively improve the quality of the input image, especially the clarity of the fingerprint ridges and valleys, thus improving the accuracy and reliability of the automatic fingerprint identification system.   
 
