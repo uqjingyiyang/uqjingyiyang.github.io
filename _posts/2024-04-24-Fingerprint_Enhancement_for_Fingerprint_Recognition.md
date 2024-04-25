@@ -6,7 +6,7 @@ Because there may be some additional interference during fingerprint acquisition
 > B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.[B]          
 > C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]                 
 
-![Original fingerprint image](/images/Confusion_matrix.jpg "Original fingerprint image")           
+![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image")           
 
 In this case, it is difficult to extract the features of fingerprints in fingerprint recognition, so it is necessary to enhance the fingerprint image.            
 
@@ -26,7 +26,7 @@ The specific steps are shown below[1]:
 
 ## **Fingerprint Enhanced Results**
 Fingerprints before enhancement:
-![Original fingerprint image](/images/Confusion_matrix.jpg "Original fingerprint image")           
+![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image")           
 
 Fingerprints after enhancement:
 ![Enhanced fingerprint image](/images/Enhanced_fingerprint_image.jpg "Enhanced fingerprint image")          
