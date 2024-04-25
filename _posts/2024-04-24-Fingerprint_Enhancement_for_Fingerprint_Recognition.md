@@ -4,9 +4,11 @@
 Because there may be some additional interference during fingerprint acquisition, this may cause the acquired image to be affected in the following ways.
 > A. The ridge lines of the fingerprints are not perfectly connected, resulting in interruptions in the middle.          
 > B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.[B]          
-> C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]                 
+> C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]
 
-![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image")           
+<div style="align: center"> 
+![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image")      
+</div>
 
 In this case, it is difficult to extract the features of fingerprints in fingerprint recognition, so it is necessary to enhance the fingerprint image.            
 
