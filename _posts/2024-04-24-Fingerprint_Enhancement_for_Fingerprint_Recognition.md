@@ -22,7 +22,7 @@ The specific steps are shown below[1]:
 
 3. **Local Orientation Estimation**: this step estimates the ridge direction for each image block. The algorithm divides the image into blocks of size w x w. Then for each block the gradient operator is used to compute its gradient and the ridge direction is estimated by the least squares approach
 4. **Local frequency estimation**: After estimating the ridge direction, the algorithm calculates the ridge frequency for each block, i.e., the repetition interval of the ridge and valley structures. The frequency estimation depends on the ridge direction and utilizes the properties of a sinusoidal waveform to model the ridge and valley structures.
-<div align="center"> <img src=/images/Predict_direction_fingerprint.jpg" width = 300 height = 500 /> </div>
+<div align="center"> <img src="/images/Normalization_fingerporint.jpg" width = 300 height = 500 /> </div>
 5. **Area mask estimation**: determines which areas of the image are recoverable and which are not by evaluating the ridge and valley characteristics of each block.   
 6. **Filtering**: Filtering the image  by applying a set of Gabor filters tuned to the direction and frequency of the local ridges effectively removes noise and preserves the true ridge and valley structure.              
 
