@@ -6,8 +6,8 @@ Because there may be some additional interference during fingerprint acquisition
 > B. Some fingerprints are damaged, resulting in loss of information during fingerprint acquisition.[B]          
 > C. The brightness of some fingerprints is not high enough during fingerprint acquisition, resulting in too many dense ridge lines.[C]
 
-
-![Original fingerprint image](/images/Original_fingerprint_image.jpg "Original fingerprint image")      
+html <div align="center"> <img src="/images/Original_fingerprint_image.jpg" width = 500 height = 300 /> </div>
+ 
 
 
 In this case, it is difficult to extract the features of fingerprints in fingerprint recognition, so it is necessary to enhance the fingerprint image.            
