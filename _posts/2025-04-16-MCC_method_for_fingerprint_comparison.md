@@ -7,7 +7,7 @@
 For fingerprint recognition algorithm, it can be seen from the content of courseware, It can be divided into global minutiae based approach and local minutiae based approach. the principle of the global based approach is applya global transformation thatallows to maximize the number of resulting paired minutiae. However, the problem is that it ignores the local information and is sensitive to the transformation of fingerprint images, so the robustness is not strong.
 
 **The principle of the global minutiae-based method is shown below:**     
-[![Confusion matrix](/images/Confusion_matrix.jpg "Confusion matrix")]        
+![global method](/images/global method.png "global minutiae-based method")    
 Figure 1: Confusion Matrix (image credit: <https://blog.csdn.net/seagal890/article/details/105059498>)       
 
 Therefore, the local minutiae-based approach is generally adopted, such as Nearest-neighbor-based local structures and Fixed-radius-based local structures. However, the disadvantages of nearest-neighbor-based local structures include the possibility of exchanging nearest neighbor minutiae due to missing or missing false minutiae.  
